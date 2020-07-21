@@ -1,2 +1,2 @@
 # BashBash
-Explore and tryout bash scripts
+Explore and tryout bash & batch scripts
